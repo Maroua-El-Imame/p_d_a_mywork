@@ -16,6 +16,37 @@ Combining the course materiel, the tasks proposed in the module and personal res
 - Problem solving.
 - Develop Research Skills. 
 
+## Setup 
+
+- Navigate to [github](https://github.com/)
+- Click Sign up.
+- Follow the prompts to create your personal account.
+~
+- Go to github.
+- Log in to your account.
+- Click the new repository button in the top-right **'+'** symbol
+- Follow [steps](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+- Click create repository.
+~
+- On GitHub, navigate to the main page of the repository.
+- Under the repository name, select the code dropdown menu.
+- Click Create codespace on main.
+
+
+## Resources 
+
+- Setup 
+    - Sign up <https://github.com/)>
+    - Repositories <https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository>
+    - Codespaces <https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository>
+
+- Learning 
+    - Principles of Data Analytics module at ATU.
+    - Lecturer : Ian Mcloughlin
+
+- Reaserch 
+    - This resouces list will expand as the course progresses.
+
 ## Contact
 
 *Maroua El imame*  
