@@ -35,8 +35,8 @@ Combining the course materiel, the tasks proposed in the module and personal res
 - From menu top left click on View > Explorer
 - Under repository title ( in bold) click on New file
 - Lower case file name, then add .ipynb extension
-- Follows steps from coding to committing then lastly syncing changes.
-~
+- Follows steps from coding to committing then lastly syncing changes.  
+~  
 For more details  
 <https://docs.github.com/en>
 
@@ -46,11 +46,11 @@ For more details
 - Setup 
     - [Sign up](https://github.com/)
     - [Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
-    - [Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository)
+    - [Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository)  
 
 - Learning 
     - Principles of Data Analytics module at ATU.
-    - Lecturer : Ian Mcloughlin
+    - Lecturer : Ian Mcloughlin  
 
 - Reaserch 
     - This resouces list will expand as the course progresses.
