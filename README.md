@@ -10,11 +10,11 @@ The present Jupyter notebook serves as a record of the assignment which consists
 
 Combining the course materiel, the tasks proposed in the module and personal research. This notebook aims to help me (learner) to 
 
-Set up the learning and practice environment.
-Source and investigate data.
-Explore and visualize data.
-Develop Research Skills. 
-Problem solving.
+- Set up the learning and practice environment.
+- Source and investigate data.
+- Explore and visualize data.
+- Develop Research Skills. 
+- Problem solving.
 
 ## 
 
