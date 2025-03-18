@@ -1,4 +1,4 @@
-# principles of data analytics
+# Principles of data analytics
 
 Author : *[Maroua EL imame ](https://github.com/Maroua-El-Imame)*
 ## Introduction
